@@ -20,7 +20,6 @@
 ![Repos Badge](https://badges.pufler.dev/repos/WandesonSilva?style=for-the-badge)
 
 
-<img src = "https://github-readme-stats.vercel.app/api?username=WandesonSilva&show_icons=true&theme=dark&line_height=27&hide=contribs,prs">
 
 
 
