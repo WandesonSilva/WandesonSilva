@@ -2,7 +2,7 @@
 <h1>Wandeson Silva 👨‍💻</h1>
 <h3>Desenvolvedor Backend</h3>
 
-📫 Você pode me contatar pelo meu email **wandeson365@gmail.com**
+📫 Você pode me contatar no Linkedin **https://www.linkedin.com/in/wandeson-silva-batista-98b679109/**
 
 <h3>Tecnologias</h3>
 
